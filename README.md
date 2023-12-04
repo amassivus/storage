@@ -6,7 +6,9 @@ a distributed storage framework within amassivus cloud suite
 
 a distributed storage framework within amassivus cloud suite
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
+
+Copyright (C) 2017-2024 amassivus and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
